@@ -1,0 +1,12 @@
+.header {
+    background-color: #2196f3;
+    color: white;
+    padding: 30px 50px;
+    margin-top: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .header {
+        font-size: 25px;
+    }
+}
