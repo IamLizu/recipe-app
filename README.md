@@ -1,3 +1,10 @@
+This is educational project, all information are taken from [www.foodnetwork.com](https://www.foodnetwork.com/) & [therecipecritic.com](https://therecipecritic.com). I intend  to use the information take from these websites for educational purposes only.
+
+## Screenshots 
+![1](https://i.imgur.com/BNtNauT.png)
+![2](https://i.imgur.com/6iHyLPs.png)
+![3](https://i.imgur.com/Wn8eKpi.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
