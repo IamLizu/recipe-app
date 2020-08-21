@@ -4,6 +4,7 @@ import styles from './Items.module.css'
 import { Card, CardImg, CardBody, CardText, CardTitle } from 'reactstrap'
 
 export default function Items  () {
+    // maping each entry in the recipes.json and representing them
     const recipes = RecipeList.map(item => {
         return(
             <Card key={item.id} className={styles.item}>
