@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "title": "Cinnamon Baked French Toast",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/7/30/0/wu0303h_cinnamon-baked-french-toast-with-blueberries_s4x3.jpg.rend.hgtvcom.826.620.suffix/1485880483811.jpeg",
+        "description": "Baked French Toast is full of cinnamon sugar goodness and baked in an easy custard that leaves the sweet brioche bread soft on the inside and crisp on the outside. Breakfast heaven!",
+        "ingredient": "1 loaf crusty sourdough or French bread, 8 whole eggs,2 cups whole milk,1/2 cup whipping (heavy) cream,1/2 cup granulated sugar,1/2 cup brown sugar,2 tablespoons vanilla extract,1/2 cup all-purpose flour,1 teaspoon ground cinnamon,1/4 teaspoon salt,Freshly grated nutmeg,1 stick cold butter, cut into pieces, plus more for serving,Warm pancake syrup."
+    },
+    {
+        "id": 1,
+        "title": "Brown Sugar Oatmeal Cookies",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2015/8/26/2/WU0805H_Brown-Sugar-Oatmeal-Cookies_s4x3.jpg.rend.hgtvcom.826.620.suffix/1532374935502.jpeg",
+        "description": "I know this whole “cookies for breakfast” thing sounds a little crazy, but just trust me on this one! The cookie dough is made much healthier with whole wheat flour, oatmeal, raisins, and carrots.",
+        "ingredient": "2 cups packed dark brown sugar, 1 cup (2 sticks) salted butter, softened, 2 teaspoons vanilla extract, 2 eggs, 1 1/2 cups all-purpose flour, 1 teaspoon salt, 1/2 teaspoon baking soda, 3 cups old-fashioned oats"
+    },
+    {
+        "id": 2,
+        "title": "Wafflemaker Hash Browns",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/4/6/0/WU1606H_Omelet-and-Hash-Browns_s4x3.jpg.rend.hgtvcom.826.620.suffix/1500909697184.jpeg",
+        "description": "Pour the melted butter over the hash browns, sprinkle with the salt and pepper and stir. Scoop a heaping 1/2 cup of the seasoned hash browns into each waffle section, then top with a generous 2 tablespoons Cheddar followed by a sprinkling of chopped ham. Top the cheese and ham in each section with another 1/4 cup hash browns.",
+        "ingredient": "Olive oil cooking spray, for spraying the waffle iron, One 30-ounce bag frozen shredded hash browns, thawed, 4 tablespoons (1/2 stick) butter, melted, 1 teaspoon kosher salt, 1/2 teaspoon freshly ground black pepper, 3/4 cup grated Cheddar, 3/4 cup chopped ham"
+    },
+    {
+        "id": 3,
+        "title": "Cheesy Hash Brown Casserole",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/4/2/0/WU0410H_cheesy-hash-brown-casserole-recipe_s4x3.jpg.rend.hgtvcom.826.620.suffix/1558025942849.jpeg",
+        "description": "Melt the butter in a large skillet and saute the chiles and onions until browned, almost blackened. Add the frozen hash browns, some salt and pepper and toss together. Tip into a buttered baking dish and top with the cheese and bacon.",
+        "ingredient": "2 tablespoons butter, 2 large green chiles, diced, 2 jalapenos, finely diced, 1 poblano chile, diced, 2 onions, diced, 4 pounds diced frozen hash brown potatoes (2 bags), Salt and ground pepper, 2 cups grated sharp Cheddar, 2 cups grated Monterey Jack, 8 slices bacon, fried and chopped."
+    },
+    {
+        "id": 4,
+        "title": "Hash Brown Casserole",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/4/26/1/FNK_HASHBROWN-CASSEROLE_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382542447992.jpeg",
+        "description": "Super comforting dish with crisp and cheesy top. The Greek yogurt and milk keep it light, yet luscious. The sharpness of the cheese allows you to use a little for a lot of flavor. The cremini mushrooms provide a savory element to make it heartier.",
+        "ingredient": "Nonstick cooking spray, for coating baking dish, 2 pounds frozen shredded hash browns, thawed, 1 cup shredded extra-sharp Cheddar (4 ounces), Kosher salt and freshly ground black pepper, 2 large yellow onions, chopped,2 tablespoons panko breadcrumbs, 1/4 teaspoon ground nutmeg, optional, 1 to 2 tablespoons chop."
+    }
+]

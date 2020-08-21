@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 3% 3%;
+}
+.item {
+    margin: 20px 20px;
+    padding: 25px 35px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.item img {
+    max-height: 250px;
+    max-width: 250px;
+}
+#itemInd {
+    font-weight: 500;
+}
+
+@media only screen and (max-width: 1125px) {
+    .item img {
+        max-height: 350px;
+        max-width: 350px;
+    }
+}
+
+@media only screen and (max-width: 950px) {
+
+    .item {
+        flex-direction: column;
+    }
+    .item img {
+        max-width: 100%;
+    }
+}
